@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4489
+
+
+last256 is a dark vim color-scheme, it was created based on vim-hybrid (https://github.com/w0ng/vim-hybrid).
+
+- Xresource color supports was removed
+- Some colors/highlightings were changed, e.g. visual selection, cursorLine, background(`Normal`), some syntax ...
+- Some hi-groups were added: `FIXME`, `Important`, `MK1`, `MK2`,  `MK3`
+
+screenshots and project home: https://github.com/sk1418/last256
+
